@@ -1,1 +1,1 @@
-# ai-case-study
+My AI Case Study
