@@ -1,15 +1,15 @@
 My AI Case Study
 
-# Taking Note of FiscalNote
+# ***Taking Note of FiscalNote***
 
 ## Overview and Origin
 
 In 2013, FiscalNote began with Timothy Hwang, along with Gerald Yao and Jonathan Chen. They started this endeavor with the idea to change how businesses and organizations access and utilize government and policy data. They’ve done this in order to simplify and enhance the decision-making processes for business and organizations. 
 
-According to the Seeking Alpha website: "FiscalNote is a government analytics platform that provides structured data on legislative bills to government agencies, businesses, trade groups, and non-profit agencies in over 80 countries." 
-
-Personal anecdote incoming: I remember having a conversation with a CEO during the 2020 pandemic and elections later that year. When asked who he wanted to win the election that year he simply stated that it didn't really matter to him, but knowing the regime that would take over would help him know how to adjust some of his business strategies moving forward. He really just needed to know what rules to play by in the game. FiscalNote, to me, seems like a great resource to help business leaders to understand any new political ‘rules’ that might impact them.
-
+According to the *Seeking Alpha* [website](https://seekingalpha.com/article/4656496-fiscalnote-the-market-share-leader-in-political-legislative-and-regulatory-big-data): "FiscalNote is a government analytics platform that provides structured data on legislative bills to government agencies, businesses, trade groups, and non-profit agencies in over 80 countries." 
+>
+>Personal anecdote incoming: I remember having a conversation with a CEO during the 2020 pandemic and elections later that year. When asked who he wanted to win the election that year he simply stated that it didn't really matter to him, but knowing the regime that would take over would help him know how to adjust some of his business strategies moving forward. He really just needed to know what rules to play by in the game. FiscalNote, to me, seems like a great resource to help business leaders to understand any new political ‘rules’ that might impact them.
+>
 After learning more about this space, it was fascinating to discover elements of the enormity of our government and the mountains of paperwork that are reviewed and approved throughout the legislative process. “Since World War II (the earliest we have data), Congress has typically enacted 4-6 million words of new law in each two-year Congress.” See link [Here](https://www.govtrack.us/congress/bills/statistics). Add into that global governments and it seems impossible to track and make sense of constantly updating policies and regulations. This is the main area, I believe, where FiscalNote is striving to be the problem-solver. Making sense of modern-day political developments, from the source, in real-time. According to the author of the article in Seeking Alpha, Sergio Heiber, the company "has the potential to become the Bloomberg equivalent in legislative data and capture the majority of Fortune 100 companies as customers."  Bloomberg is a large company that focuses on business and financial data, news, and insight. FiscalNote hopes to become similar in size. 
 
 An interesting beginning to FiscalNote's funding was a cold email from Timothy Hwang to Mark Cuban, this got things started for the company. They then secured more subsequent investments from New Enterprise Associates, Yahoo co-founder Jerry Yang, and First Round Capital, this later round raised $1.3 million. Then more investments came along including a $7 million Series A round with contributions from Jerry Yang, Mark Cuban, Steve Case and others. In subsequent rounds, FiscalNote raised additional millions, including $10 million in a third round with investment from Chinese social network Renren. They continue to attract more investments as they are now an established and publicly-traded company in the microcap space. 
@@ -26,10 +26,10 @@ An interesting fact about FiscalNote is that its customers are every member of t
 
 ## Landscape
 
-FiscalNote operates in the field of policy and market intelligence. It's a technology company specializing in software as a service (SaaS), offering tools and platforms for comprehensive analysis and tracking of governmental and legislative data. Their services are particularly relevant for organizations needing insights into policy changes, regulatory compliance, and governmental affairs. This field combines aspects of legal, political, and data analysis, harnessing advanced technologies like AI and machine learning to provide actionable intelligence.
+FiscalNote finds itself in the competitive world of policy and market intelligence. They operate in the software as a service (SaaS) space, they have tools and platforms for comprehensive analysis and tracking of governmental and legislative data. If you're an organization that needs insights into policy changes, regulatory compliance, and governmental affairs, their company will likely interest you. Combining elements of legal, political, and data analysis, FiscalNote harnesses AI and machine learning to provide actionable intelligence.
 
 
-Over the last 5 to 10 years, the field of policy and market intelligence has seen major trends and innovations such as the integration of Artificial Intelligence (AI) and Machine Learning (ML) for data analysis, increased use of Natural Language Processing (NLP) for understanding complex legislative texts, and the rise of predictive analytics to forecast policy impacts. There's also been a growing emphasis on real-time data monitoring and the use of big data to provide comprehensive, actionable insights. These innovations have significantly enhanced the ability of businesses and organizations to navigate and respond to the rapidly changing policy landscape.
+Over the last 5 to 10 years, AI and Machine Learning have paved the way for major advancements in the field of policy and market intelligence. Data analysis has been kicked into hyperdrive with these resources. In particular with Natural Language Processing for tasks like understanding complex legislative texts, and even being able to forecast policy impacts. More and more organizations are looking for real-time data monitoring, because this will allow them to adapt the fastest in an ever-changing political landscape.
 
 
 
