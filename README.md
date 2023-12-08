@@ -42,9 +42,9 @@ As the company has grown they’ve been able to purchase competitors like CQ Rol
 
 ## Recommendations
 
-One of the criticisms or controversies regarding FiscalNote is the fact that their tool is viewed as “too expensive” by some and creates a more exclusive group of organizations that are able to use its resources. This was reported in an article in the MIT review, I can see applications that would be helpful for even individual citizens who would have an interest in being more up-to-date on their politics and legislature.
+One of the criticisms or controversies regarding FiscalNote is the fact that their tool is viewed as “too expensive” by some and creates a more exclusive group of organizations that are able to use its resources. This was reported in an article in the [MIT review](https://www.technologyreview.com/2018/08/13/2207/tim-hwangs-fiscalnote-is-revolutionizing-washington-lobbying-with-big-data/). 
 
-It seems that the most important currency these days is information. When it comes to information about legislation and the direction of respective countries, it's difficult to imagine information that coule be more valuable than that. This I believe contributes to FiscalNote's relevance today and likely their relevance moving forward into the future. 
+It seems that the most important currency these days is information. When it comes to information about legislation and the direction of respective countries, it's difficult to imagine information that could be more valuable than that. This I believe contributes to FiscalNote's relevance today and likely their relevance moving forward into the future. 
 
 
 ## Sources
