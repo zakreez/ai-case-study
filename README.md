@@ -10,7 +10,7 @@ According to the Seeking Alpha website: "FiscalNote is a government analytics pl
 
 Personal anecdote incoming: I remember having a conversation with a CEO during the 2020 pandemic and elections later that year. When asked who he wanted to win the election that year he simply stated that it didn't really matter to him, but knowing the regime that would take over would help him know how to adjust some of his business strategies moving forward. He really just needed to know what rules to play by in the game. FiscalNote, to me, seems like a great resource to help business leaders to understand any new political ‘rules’ that might impact them.
 
-After learning more about this space, it was fascinating to discover elements of the enormity of our government and the mountains of paperwork that are reviewed and approved throughout the legislative process. “Since World War II (the earliest we have data), Congress has typically enacted 4-6 million words of new law in each two-year Congress.” Add into that global governments and it seems impossible to track and make sense of constantly updating policies and regulations. This is the main area, I believe, where FiscalNote is striving to be the problem-solver. Making sense of modern-day political developments, from the source, in real-time. According to the author of the article in Seeking Alpha, Sergio Heiber, the company "has the potential to become the Bloomberg equivalent in legislative data and capture the majority of Fortune 100 companies as customers."  Bloomberg is a large company that focuses on business and financial data, news, and insight. FiscalNote hopes to become similar in size. 
+After learning more about this space, it was fascinating to discover elements of the enormity of our government and the mountains of paperwork that are reviewed and approved throughout the legislative process. “Since World War II (the earliest we have data), Congress has typically enacted 4-6 million words of new law in each two-year Congress.” [See Source]https://www.govtrack.us/congress/bills/statistics Add into that global governments and it seems impossible to track and make sense of constantly updating policies and regulations. This is the main area, I believe, where FiscalNote is striving to be the problem-solver. Making sense of modern-day political developments, from the source, in real-time. According to the author of the article in Seeking Alpha, Sergio Heiber, the company "has the potential to become the Bloomberg equivalent in legislative data and capture the majority of Fortune 100 companies as customers."  Bloomberg is a large company that focuses on business and financial data, news, and insight. FiscalNote hopes to become similar in size. 
 
 An interesting beginning to FiscalNote's funding was a cold email from Timothy Hwang to Mark Cuban, this got things started for the company. They then secured more subsequent investments from New Enterprise Associates, Yahoo co-founder Jerry Yang, and First Round Capital, this later round raised $1.3 million. Then more investments came along including a $7 million Series A round with contributions from Jerry Yang, Mark Cuban, Steve Case and others. In subsequent rounds, FiscalNote raised additional millions, including $10 million in a third round with investment from Chinese social network Renren. They continue to attract more investments as they are now an established and publicly-traded company in the microcap space. 
 
@@ -45,7 +45,7 @@ As the company has grown they’ve been able to purchase competitors like CQ Rol
 One of the criticisms or controversies regarding FiscalNote is the fact that their tool is viewed as “too expensive” by some and creates a more exclusive group of organizations that are able to use its resources. This was reported in an article in the MIT review, I can see applications that would be helpful for even individual citizens who would have an interest in being more up-to-date on their politics and legislature.
 
 
-##Sources
+## Sources
 
 "GovTrack.us. 'U.S. Congress Bills Statistics.' Dec 7, 2023. https://www.govtrack.us/congress/bills/statistics."
 
@@ -57,4 +57,4 @@ One of the criticisms or controversies regarding FiscalNote is the fact that the
 
 OpenAI. "Conversation with ChatGPT on AI Case Study Research," Dec 7,2023.
 
-MIT Technology Review. Retrieved 2022-09-22.
+MIT Technology Review. Retrieved 2022-09-22. https://www.technologyreview.com/2018/08/13/2207/tim-hwangs-fiscalnote-is-revolutionizing-washington-lobbying-with-big-data/
