@@ -6,7 +6,7 @@ My AI Case Study
 
 In 2013, FiscalNote began with Timothy Hwang, along with Gerald Yao and Jonathan Chen. They started this endeavor with the idea to change how businesses and organizations access and utilize government and policy data. They’ve done this in order to simplify and enhance the decision-making processes for business and organizations. 
 
-According to the *Seeking Alpha* [website](https://seekingalpha.com/article/4656496-fiscalnote-the-market-share-leader-in-political-legislative-and-regulatory-big-data): "FiscalNote is a government analytics platform that provides structured data on legislative bills to government agencies, businesses, trade groups, and non-profit agencies in over 80 countries." 
+According to a comprehensive article on the *Seeking Alpha* [website](https://seekingalpha.com/article/4656496-fiscalnote-the-market-share-leader-in-political-legislative-and-regulatory-big-data): "FiscalNote is a government analytics platform that provides structured data on legislative bills to government agencies, businesses, trade groups, and non-profit agencies in over 80 countries." 
 >
 >Personal anecdote incoming: I remember having a conversation with a CEO during the 2020 pandemic and elections later that year. When asked who he wanted to win the election that year he simply stated that it didn't really matter to him, but knowing the regime that would take over would help him know how to adjust some of his business strategies moving forward. He really just needed to know what rules to play by in the game. FiscalNote, to me, seems like a great resource to help business leaders to understand any new political ‘rules’ that might impact them.
 >
