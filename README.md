@@ -26,7 +26,7 @@ An interesting fact about FiscalNote is that its customers are every member of t
 
 ## Landscape
 
-FiscalNote finds itself in the competitive world of policy and market intelligence. They operate in the software as a service (SaaS) space, they have tools and platforms for comprehensive analysis and tracking of governmental and legislative data. If you're an organization that needs insights into policy changes, regulatory compliance, and governmental affairs, their company will likely interest you. Combining elements of legal, political, and data analysis, FiscalNote harnesses AI and machine learning to provide actionable intelligence.
+FiscalNote has tools and platforms for comprehensive analysis and tracking of governmental and legislative data. If you're an organization that needs insights into policy changes, regulatory compliance, and governmental affairs, their company will likely interest you. Combining elements of legal, political, and data analysis, FiscalNote harnesses AI and machine learning to provide actionable intelligence.
 
 
 Over the last 5 to 10 years, AI and Machine Learning have paved the way for major advancements in the field of policy and market intelligence. Data analysis has been kicked into hyperdrive with these resources. In particular with Natural Language Processing for tasks like understanding complex legislative texts, and even being able to forecast policy impacts. More and more organizations are looking for real-time data monitoring, because this will allow them to adapt the fastest in an ever-changing political landscape.
