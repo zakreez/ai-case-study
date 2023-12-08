@@ -18,7 +18,7 @@ An interesting beginning to FiscalNote's funding was a cold email from Timothy H
 ## Business Activities
 
 
-Again from the Seeking Alpha article: "The company employs a Software as a Service ("SaaS") model and derives the majority of its revenue from subscriptions. It uses a land and expand strategy which is typical in the SaaS industry, beginning with a small contract for one product and adding additional services and products for each respective customer. Typically, starter contracts are in the $10-$15K per year range with some enterprises such as the U.S. Department of Defense ("DOD") expanding to several million dollars."
+Again from the *Seeking Alpha* article: "The company employs a Software as a Service ("SaaS") model and derives the majority of its revenue from subscriptions. It uses a land and expand strategy which is typical in the SaaS industry, beginning with a small contract for one product and adding additional services and products for each respective customer. Typically, starter contracts are in the $10-$15K per year range with some enterprises such as the U.S. Department of Defense ("DOD") expanding to several million dollars."
 
 
 An interesting fact about FiscalNote is that its customers are every member of the U.S. Congress, 60 of the Fortune 100 companies, many of the U.S. federal government agencies, local, state and foreign governments, and non-profit organizations. Interestingly enough, they also have 17 patents! A deeper dive into their products shows they work in data analytics, information on government funding, supply chain updates and compliance requirements. Their main offering is what they call the "GRM" which is the Government Relationship product and it is also SOC2 Type 2 compliant which is extremely important when it comes to security. This also explains or justifies their ability to work with the Department of Defense which is believed to be their largest customer. 
@@ -43,6 +43,8 @@ As the company has grown they’ve been able to purchase competitors like CQ Rol
 ## Recommendations
 
 One of the criticisms or controversies regarding FiscalNote is the fact that their tool is viewed as “too expensive” by some and creates a more exclusive group of organizations that are able to use its resources. This was reported in an article in the MIT review, I can see applications that would be helpful for even individual citizens who would have an interest in being more up-to-date on their politics and legislature.
+
+It seems that the most important currency these days is information. When it comes to information about legislation and the direction of respective countries, it's difficult to imagine information that coule be more valuable than that. This I believe contributes to FiscalNote's relevance today and likely their relevance moving forward into the future. 
 
 
 ## Sources
